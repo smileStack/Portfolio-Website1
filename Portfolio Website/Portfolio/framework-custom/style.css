@@ -1,0 +1,46 @@
+
+h1{
+  font-weight: bold;
+  font-family: 'Kumar One Outline', cursive;
+  color: #7C8B88;
+}
+
+.title{
+  font-family: 'Kumar One Outline', cursive;
+  background-color: #33BEBE;
+}
+
+.screenshot{
+  max-width:460;
+}
+
+.description{
+  color: #7C8B88;
+  max-width: 705px;
+  margin-left: 21.444px;
+}
+
+.app {
+    display: flex;
+}
+
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+
+element.style{
+  display:flex;
+}
+
+
+* {
+   outline: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}

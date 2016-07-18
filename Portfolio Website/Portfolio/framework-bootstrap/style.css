@@ -1,0 +1,53 @@
+* {
+   outline: 1px solid red !important;
+}
+
+*{
+  font-family: 'Biryani', sans-serif;
+}
+
+h1{
+  font-weight: bold;
+  font-family: 'Kumar One Outline', cursive;
+  color: #df006c;
+}
+
+#title{
+  background-color: #9de0e6;
+  text-align: -webkit-center;
+  padding: 10% 10%;
+}
+
+#title-tex{
+}
+
+div.img {
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 1%;
+    height: auto;
+}
+
+.screenshot{
+  max-width:460;
+}
+
+.description{
+  color: #7C8B88;
+  max-width: 705px;
+  margin-left: 21.444px;
+}
+
+.app {
+    display: flex;
+}
+
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+
+element.style{
+  display:flex;
+}
