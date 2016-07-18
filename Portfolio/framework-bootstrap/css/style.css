@@ -1,0 +1,107 @@
+
+
+body {
+  font-family: 'Biryani', sans-serif;
+}
+
+h1 {
+  font-weight: lighter;
+  color: #ffffff;
+}
+
+/*How can I make two a tags of different colors?*/
+a .1{
+  color:#8165a6;
+}
+a .2{
+  color:#ca9450;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+img{
+  height: 250px !important;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: #7C8B88;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+.back-img{
+  height: 470px;
+  background-image: url('https://secure.static.tumblr.com/15c7a526859eaf146c28e7a5845d9525/iujbbnp/IzLo2kf68/tumblr_static_ebgz6c2ltiosksw0kososcogw_640_v2.jpg');
+  background-size: cover;
+  min-height:100%;
+}
+
+#pic {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#color{
+  background: rgba(216,63,135,0.26);
+}
+#columns{
+  padding-top: 2em;
+}
+#title {
+  background-color: #151724;fff8ae;690140
+  min-height: 477px !important;
+}
+#text-column {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  padding: 6em auto 6em auto;
+}
+
+#title-text {
+  color: white;
+  margin: 10 10 auto;
+}
+
+#sections {
+  min-height: 3em;
+}
+
+#space {
+  margin: 5% auto
+}
+
+div.img {
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 1%;
+    height: auto;
+}
+
+#columns {
+  text-align: center;
+}
+.title-super{
+  font-size: 60px;
+  font-family: 'Reem Kufi', sans-serif;
+}
+.screenshot {
+  max-width:460;
+}
+
+.description {
+  color: #7C8B88;
+  max-width: 705px;
+  margin-left: 21.444px;
+}
